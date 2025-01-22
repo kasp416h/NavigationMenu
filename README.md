@@ -1,6 +1,6 @@
-# Navigation Plugin
+# Navigation Lib
 
-This is a navigation plugin that generates a navigation menu from a list of `MenuItem` objects. The menu supports infinite levels of nested items using hover cards.
+This is a navigation lib that generates a navigation menu from a list of `MenuItem` objects. The menu supports infinite levels of nested items using hover cards.
 
 ## Features
 
